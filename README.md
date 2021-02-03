@@ -4,9 +4,9 @@
 
 demo演示了不用并行和用了并行api的效果：
 
-!()[md5.gif]
+![](md5.gif)
 
-!()[md5parallel.gif]
+![](md5parallel.gif)
 
 **Gradle Worker API**还有其他能力：
 
